@@ -1,13 +1,13 @@
 # Site settings
-title: WX Blog
-SEOTitle: WX的博客 | WX Blog
+title: PBH Blog
+SEOTitle: PBH的博客 | PBH Blog
 header-img: img/post-bg-desk.jpg
-email: 2911940558@qq.com
+email: pbh3224@qq.com
 description: "作学习记录用途的博客."
-keyword: "WX, WX Blog, WX的博客, personal blog"
-url: "https://technowx.github.io/"          # your host, for absolute URL
+keyword: "PBH, PBH Blog, PBH的博客, personal blog"
+url: "https://AITechFast.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/TechnoWX/technowx.github.io.git" # you code repository
+github_repo: "https://github.com/pbh3224/AITechFast.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-about-description: "Goals determine what you going to be!"
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    TechnoWX
+github_username:    pbh3224
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID:                             #生成的clientID
+  clientSecret:     #生成的clientSecret
+  repo: AITechFast.github.io    #仓库名称
+  owner: pbh3224    #github用户名
+  admin: pbh3224
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 #friends: [
 #    {
-#        title: "WY",
-#        href: "http://zhengwuyang.com"
+#        title: "WX",
+#        href: "https://technowx.github.io"
 #    },{
 #        title: "简书·BY",
-#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#        href: "http://www.jianshu.com/"
 #    },{
 #        title: "Apple",
 #        href: "https://apple.com"
